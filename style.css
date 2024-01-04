@@ -66,7 +66,7 @@
   }
 
   .arrow-down {
-    margin-top: 40px;
+    margin-top: 20px;
     animation: arrow 2s ease infinite;
   }
 
@@ -107,7 +107,7 @@
     }
     .header-logo img {
       width: 300px;
-      margin-top: 20px;
+      margin-top: 10px;
       margin-bottom: 50px;
     }
     
